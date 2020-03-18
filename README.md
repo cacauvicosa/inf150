@@ -1,2 +1,3 @@
 # inf150
-Disciplina inf150
+Nome: Ricardo dos ...
+Matricula: 7126-9
